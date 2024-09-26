@@ -1,3 +1,7 @@
 
 
-console.log('Hello, test-2')
+function hiHeader() {
+	console.log('Hi, Header')
+}
+
+hiHeader()
